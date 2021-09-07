@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alpharecords/static/css/main.b469388a.chunk.css",
+    "main.js": "/alpharecords/static/js/main.fb2329ec.chunk.js",
+    "main.js.map": "/alpharecords/static/js/main.fb2329ec.chunk.js.map",
+    "runtime-main.js": "/alpharecords/static/js/runtime-main.91290084.js",
+    "runtime-main.js.map": "/alpharecords/static/js/runtime-main.91290084.js.map",
+    "static/js/2.fd0e1bca.chunk.js": "/alpharecords/static/js/2.fd0e1bca.chunk.js",
+    "static/js/2.fd0e1bca.chunk.js.map": "/alpharecords/static/js/2.fd0e1bca.chunk.js.map",
+    "static/js/3.62c2edbc.chunk.js": "/alpharecords/static/js/3.62c2edbc.chunk.js",
+    "static/js/3.62c2edbc.chunk.js.map": "/alpharecords/static/js/3.62c2edbc.chunk.js.map",
+    "index.html": "/alpharecords/index.html",
+    "static/css/main.b469388a.chunk.css.map": "/alpharecords/static/css/main.b469388a.chunk.css.map",
+    "static/js/2.fd0e1bca.chunk.js.LICENSE.txt": "/alpharecords/static/js/2.fd0e1bca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91290084.js",
+    "static/js/2.fd0e1bca.chunk.js",
+    "static/css/main.b469388a.chunk.css",
+    "static/js/main.fb2329ec.chunk.js"
+  ]
+}
